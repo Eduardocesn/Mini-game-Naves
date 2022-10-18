@@ -1,3 +1,3 @@
-# Projeto final CodeWorld
+# Haskell SpaceShips
  
- Projeto final de haskell no CodeWorld
+Spaceships mini-game built in haskell, using CodeWorld
